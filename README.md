@@ -28,8 +28,12 @@ mu+ mu- > ta+ ta-
 or
 
 add model taudecay_UFO
+
 import model sm__taudecay_UFO-full
+
   generate mu+ mu- > ta+ ta- ,  ta- > vt mu- vm~ / w+ w- , ta+ > vt~ pi+
+
   generate mu+ mu- > ta+ ta- ,  ta- > vt pi- pi- pi+, ta+ > vt~ pi+ 
+
   generate mu+ mu- > ta+ ta- ,  ta- > vt pi- pi- pi+, ta+ > vt~ mu+ vm / w+ w-
 
